@@ -1,0 +1,3 @@
+https://zhuanlan.zhihu.com/p/23134551
+https://www.cnblogs.com/lhb25/p/vue-turtoials-for-new-starter.html
+vue+vue-strap+babel(es6)+webpack+vue-router
